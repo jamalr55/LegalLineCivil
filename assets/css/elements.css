@@ -2421,6 +2421,7 @@ footer .bottom-footer .ownavigation.navbar .navbar-nav > li > a:hover {
 	letter-spacing: 0.56px;
 	padding: 15px 40px 13px;
 	text-transform: uppercase;
+	float: right;
 }
 .appointment-form > form input[type="submit"]:hover {
 	background-color: #213455;
